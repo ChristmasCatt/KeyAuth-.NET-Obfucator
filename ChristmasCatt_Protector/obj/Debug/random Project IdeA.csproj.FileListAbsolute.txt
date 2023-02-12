@@ -1,0 +1,15 @@
+C:\Users\z9jpo\source\repos\random Project IdeA\random Project IdeA\bin\Debug\random Project IdeA.exe.config
+C:\Users\z9jpo\source\repos\random Project IdeA\random Project IdeA\bin\Debug\random Project IdeA.exe
+C:\Users\z9jpo\source\repos\random Project IdeA\random Project IdeA\bin\Debug\random Project IdeA.pdb
+C:\Users\z9jpo\source\repos\random Project IdeA\random Project IdeA\bin\Debug\dnlib.dll
+C:\Users\z9jpo\source\repos\random Project IdeA\random Project IdeA\bin\Debug\Guna.UI2.dll
+C:\Users\z9jpo\source\repos\random Project IdeA\random Project IdeA\bin\Debug\dnlib.xml
+C:\Users\z9jpo\source\repos\random Project IdeA\random Project IdeA\obj\Debug\random Project IdeA.csproj.AssemblyReference.cache
+C:\Users\z9jpo\source\repos\random Project IdeA\random Project IdeA\obj\Debug\random Project IdeA.csproj.SuggestedBindingRedirects.cache
+C:\Users\z9jpo\source\repos\random Project IdeA\random Project IdeA\obj\Debug\random_Project_IdeA.Form1.resources
+C:\Users\z9jpo\source\repos\random Project IdeA\random Project IdeA\obj\Debug\random_Project_IdeA.Properties.Resources.resources
+C:\Users\z9jpo\source\repos\random Project IdeA\random Project IdeA\obj\Debug\random Project IdeA.csproj.GenerateResource.cache
+C:\Users\z9jpo\source\repos\random Project IdeA\random Project IdeA\obj\Debug\random Project IdeA.csproj.CoreCompileInputs.cache
+C:\Users\z9jpo\source\repos\random Project IdeA\random Project IdeA\obj\Debug\random Project IdeA.csproj.CopyComplete
+C:\Users\z9jpo\source\repos\random Project IdeA\random Project IdeA\obj\Debug\random Project IdeA.exe
+C:\Users\z9jpo\source\repos\random Project IdeA\random Project IdeA\obj\Debug\random Project IdeA.pdb
